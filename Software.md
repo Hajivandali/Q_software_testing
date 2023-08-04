@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, in this article talk about test Software Testing </h1>
+<h1 align="center">Hello 👋, in this article talk about Software Testing </h1>
 <br> <br>  
 <h3 align="center">Software Testing </h3>
 <br>
