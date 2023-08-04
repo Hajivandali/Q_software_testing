@@ -46,6 +46,30 @@ Testing shows the presence of defects
 </p>
 <img src="https://github.com/Hajivandali/Q_software_testing/blob/master/software-engineering-requirement-analysis.jpg">
 <h2>2.Test Planning</h2>
+<p>
+    Test Planning is the most efficient phase of the software testing life cycle where all testing plans are defined. In this phase manager of the testing, team calculates the estimated effort and cost for the testing work. This phase gets started once the requirement-gathering phase is completed.
+</p>
 
+<h3>The activities that take place during the Test Planning stage include:</h3>
 
+<li>Identifying the testing objectives and scope
+</li>
+<li>Developing a test strategy: selecting the testing methods and techniques that will be used
+</li>
+<li>Identifying the testing environment and resources needed
+</li>
+<li>Identifying the test cases that will be executed and the test data that will be used
+</li>
+<li>Estimating the time and cost required for testing
+</li>
+<li>Identifying the test deliverables and milestones
+</li>
+<li>Assigning roles and responsibilities to the testing team
+</li>
+<li>Reviewing and approving the test plan
+</li>
+<br>
 
+<p>
+    At the end of this stage, the testing team should have a detailed plan for the testing activities that will be performed, and a clear understanding of the testing objectives, scope, and deliverables. This will help to ensure that the testing process is well-organized and that the testing team is able to deliver high-quality results.
+</p><a href="https://www.geeksforgeeks.org/software-testing-test-plan/">Test Planning </a>
